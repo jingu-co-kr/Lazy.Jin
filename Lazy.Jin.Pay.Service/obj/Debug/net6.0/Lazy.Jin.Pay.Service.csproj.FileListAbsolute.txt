@@ -1,0 +1,12 @@
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\bin\Debug\net6.0\Lazy.Jin.Pay.Service.deps.json
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\bin\Debug\net6.0\Lazy.Jin.Pay.Service.dll
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\bin\Debug\net6.0\Lazy.Jin.Pay.Service.pdb
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.csproj.AssemblyReference.cache
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.AssemblyInfoInputs.cache
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.AssemblyInfo.cs
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.csproj.CoreCompileInputs.cache
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.dll
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\refint\Lazy.Jin.Pay.Service.dll
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\Lazy.Jin.Pay.Service.pdb
+C:\Lab\Lazy.Jin\Lazy.Jin\Lazy.Jin.Pay.Service\obj\Debug\net6.0\ref\Lazy.Jin.Pay.Service.dll

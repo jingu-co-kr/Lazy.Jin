@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.Jin.Api", "Lazy.Jin.Api\Lazy.Jin.Api.csproj", "{1300065E-1279-4EC3-9B5F-56873C2C6D7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.Jin.Pay.Entity", "Lazy.Jin.Pay.Entity\Lazy.Jin.Pay.Entity.csproj", "{3C55A846-E89A-4B36-9CB8-7916528116CE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Pay", "Pay", "{C6ECA7DE-42DD-489D-A1E5-46078F3FED99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.Jin.Pay.DAO", "Lazy.Jin.Pay.DAO\Lazy.Jin.Pay.DAO.csproj", "{51671CD3-585D-470C-84D0-50AE0A98DB40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.Jin.Pay.Service", "Lazy.Jin.Pay.Service\Lazy.Jin.Pay.Service.csproj", "{AAE6BFE2-B240-4B56-AA96-27CF853B82CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lazy.Jin.Pay.Biz", "Lazy.Jin.Pay.Biz\Lazy.Jin.Pay.Biz.csproj", "{A529E59F-E947-412C-8225-E16C3538AA29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1300065E-1279-4EC3-9B5F-56873C2C6D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1300065E-1279-4EC3-9B5F-56873C2C6D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1300065E-1279-4EC3-9B5F-56873C2C6D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1300065E-1279-4EC3-9B5F-56873C2C6D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C55A846-E89A-4B36-9CB8-7916528116CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C55A846-E89A-4B36-9CB8-7916528116CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C55A846-E89A-4B36-9CB8-7916528116CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C55A846-E89A-4B36-9CB8-7916528116CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51671CD3-585D-470C-84D0-50AE0A98DB40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51671CD3-585D-470C-84D0-50AE0A98DB40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51671CD3-585D-470C-84D0-50AE0A98DB40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51671CD3-585D-470C-84D0-50AE0A98DB40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AAE6BFE2-B240-4B56-AA96-27CF853B82CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AAE6BFE2-B240-4B56-AA96-27CF853B82CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AAE6BFE2-B240-4B56-AA96-27CF853B82CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AAE6BFE2-B240-4B56-AA96-27CF853B82CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A529E59F-E947-412C-8225-E16C3538AA29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A529E59F-E947-412C-8225-E16C3538AA29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A529E59F-E947-412C-8225-E16C3538AA29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A529E59F-E947-412C-8225-E16C3538AA29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3C55A846-E89A-4B36-9CB8-7916528116CE} = {C6ECA7DE-42DD-489D-A1E5-46078F3FED99}
+		{51671CD3-585D-470C-84D0-50AE0A98DB40} = {C6ECA7DE-42DD-489D-A1E5-46078F3FED99}
+		{AAE6BFE2-B240-4B56-AA96-27CF853B82CE} = {C6ECA7DE-42DD-489D-A1E5-46078F3FED99}
+		{A529E59F-E947-412C-8225-E16C3538AA29} = {C6ECA7DE-42DD-489D-A1E5-46078F3FED99}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74519000-1C5D-4E48-9E81-043336E6F0F8}
+	EndGlobalSection
+EndGlobal
